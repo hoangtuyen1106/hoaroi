@@ -1,0 +1,5 @@
+body{overflow-x:hidden;height:auto}
+#container{position:fixed;z-index:9999999999999999999!important;top:0!important}
+.dot{width:15px;height:15px;position:absolute;background:url(img/hoamaiir1.png);background-size:100% 100%}
+.dot2{width:20px;height:20px;position:absolute;background:url(img/hoamaiir2.png);background-size:100% 100%}
+.dot3{width:20px;height:20px;position:absolute;background:url(img/hoamaiir3.png);background-size:100% 100%}
